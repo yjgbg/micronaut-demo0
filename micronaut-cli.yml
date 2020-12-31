@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.github.yjgbg
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [ annotation-api, app-name, data, data-jpa, github-workflow-graal-docker-registry, h2, http-client, java, java-application, jdbc-hikari, junit, logback, maven, netty-server, readme, redis-lettuce, shade, yaml ]
